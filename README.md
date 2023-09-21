@@ -3,7 +3,7 @@ Hi there! I'm Samuli Juutinen 👋
 
 
 - :school: I'm a student in University of Applied Sciences.
-- 🌱 I’m currently learning C/C++ and OpenGL.
+- 🌱 I’m currently learning C/C++ and SFML.
 - 👀 I’m interested in game-, software development and IoT.
 
 <!--

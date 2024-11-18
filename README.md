@@ -3,7 +3,7 @@ Hi there! I'm Samul1 👋
 
 
 - :school: I'm a student in University of Applied Sciences.
-- 🌱 I’m currently learning C/C++, C# and SFML.
+- 🌱 I’m currently learning C/C++, SFML and OpenGL.
 - 👀 I’m interested in game-, software development and IoT.
 
 <!--
